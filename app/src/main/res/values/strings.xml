@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fitness Tracker</string>
+    <array name="options">
+        <item>Option 1</item>
+        <item>Option 2</item>
+        <item>Option 3</item>
+    </array>
+</resources>
